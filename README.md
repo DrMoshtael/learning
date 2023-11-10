@@ -1,2 +1,2 @@
 # learning
-Just a personal repository for learning
+Just a personal repository for learning.
